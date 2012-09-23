@@ -58,7 +58,6 @@ PRODUCT_PACKAGES := \
     libsurfaceflinger_client \
     com.android.future.usb.accessory \
     SamsungServiceMode \
-    Torch \
     TvOut
 
 # HAL
